@@ -1,0 +1,59 @@
+*{
+    font-family: 'public Sans', sans-serif;
+}
+section{
+    padding: 60px 0px;
+}
+
+html,body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.a{
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #7333BF;
+}
+
+.navitema a{
+    color: #BE2DD2;
+}
+
+.navitemb a{
+    color:  #BE2DD2;
+}
+
+.navitemc{
+    background-color:  #BE2DD2 !important;
+    border-radius: 12px;   
+}
+
+
+.navitemb{
+    background-color:  #BE2DD2 !important;
+    border-radius: 12px;
+    
+}
+
+.navitema{
+    background-color: white;
+    box-shadow:5px 5px 10px rgb(90, 87, 69);
+    border-radius: 10px;
+    
+}
+
+#bgsection{
+    background-color: #FBEFF9;
+}
+
+.sopuru{
+    border-radius: 12px;
+}
+
+.aba{
+    background-color: #F9D8F3 !important;
+}
+
