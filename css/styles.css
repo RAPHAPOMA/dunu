@@ -57,3 +57,50 @@ html,body{
     background-color: #F9D8F3 !important;
 }
 
+.youtube{
+    border-radius: 40px;
+}
+
+.stan{
+    color: #7333BF;
+}
+
+.fanny{
+    background-color: #7333BF;
+}
+
+.firsto{
+    background-color:#786196;
+    padding: 6rem;
+}
+
+.form-control{
+    border-radius: 100px;
+    background-color: aliceblue;
+    padding: 20px 80px 20px 80px;
+}
+.naya{
+    background-color: #BE2DD2;
+    border-radius: 100px;
+    padding: 20px 50px 20px 50px;
+    color: #0A2640;
+}
+
+.float{
+    position: fixed;
+    width: 60px;
+    height: 6opx;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.my-float{
+    margin-top: 16px;
+}
